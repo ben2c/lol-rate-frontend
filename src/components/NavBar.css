@@ -1,0 +1,16 @@
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  padding: 8px;
+  background-color: #393939;
+  color: white;
+}
+
+.champ {
+  color: white;
+}

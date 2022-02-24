@@ -1,0 +1,11 @@
+.Champions {
+  color: white
+}
+
+.Like {
+  color: white
+}
+
+body .ui.cards>.card{
+  box-shadow: none;
+}

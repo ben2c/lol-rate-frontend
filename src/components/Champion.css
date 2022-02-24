@@ -1,0 +1,106 @@
+* {
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.ChampionImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.content {
+  background-color: #393939;
+}
+
+.user-class {
+    color: #393939;
+}
+
+.plus-class {
+  color: #01a7b7;
+  font-size: 10px;
+ }
+
+ .minus-class {
+  color: #d76735;
+ }
+
+ .hot-class {
+   color: #de4b43
+ }
+
+  .total-class {
+  color: #98c4d1
+}
+
+.button
+{
+	color: black;
+	width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  padding: 2px;
+  font-family: 'Rajdhani', sans-serif;
+  font-style: bold;
+  font-size: 16px;
+}
+
+.meta-button
+{
+  background-color:#525252;
+
+}
+
+.unmeta-button
+{
+  background-color:#525252;
+
+
+}
+
+.button-login
+{
+	background-color:#01a7c7;
+
+}
+
+.button-add
+{
+  background-color:#d76735;
+
+}
+
+.button-signup
+{
+  background-color:#d76735;
+
+}
+
+.button-logout
+{
+  background-color:#01a7c7;
+
+}
+
+.stats-container
+{
+  color: white;
+}
+
+.ui.form .field>label
+{
+  color: white;
+}
+
+.Footer
+{
+  color: white;
+}
+
+.about 
+{
+  color: white;
+}
